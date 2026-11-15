@@ -1,0 +1,7 @@
+
+Enter your name: Aarti
+Enter your age: 20
+Enter your city: Basmat
+Enter your hobby: Drawing
+Enter your favourite food: Pizza
+Enter your favourite color: Pink
